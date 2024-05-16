@@ -27,7 +27,7 @@ pipeline{
         stage('Disk Utilization'){
             steps{
                 sh '''
-                    dg -kh
+                    df -kh
                 '''
             }
         }
