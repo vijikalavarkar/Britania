@@ -1,1 +1,1 @@
-It a beautiful friday
+Its a nice friday
